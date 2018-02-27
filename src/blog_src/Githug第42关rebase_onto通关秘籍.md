@@ -45,3 +45,5 @@ Here is how you would transplant a topic branch based on one branch to another, 
 ```
 
 祝通关顺利！
+
+[!https://github.com/sahadev/blog/blob/master/src/image_src/tsinghua.jpg]
